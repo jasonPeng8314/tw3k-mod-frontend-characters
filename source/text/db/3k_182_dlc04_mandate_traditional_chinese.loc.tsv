@@ -2,6 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/3k_182_dlc04_mandate_traditional_chinese.loc		
 frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_lady_mi_earth	[[b]]麋夫人[[/b]]\\n堅忍忠貞\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]麋夫人會為她的家族赴湯蹈火，在所不辭。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_lady_bian_huilan_hero_wood	[[b]]卞夫人[[/b]]\\n溫厚主母\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]須有耐性和智慧才能管住曹家子弟的脾氣。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_cao_ren_hero_earth	[[b]]曹仁[[/b]]\\n善騎善射\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]說到馬術、射箭和狩獵等在外討生活的技巧，曹仁無一不精，他是戰場上不可多得的盟友。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_empress_he_fire	[[b]]何皇后[[/b]]\\n暗中操弄\\n\\n將領類別：{{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]]時時策劃、時時圖謀，時時在明顯的表象之下藏有內幕。無時無刻不是如此。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_shi_xie_hero_water	[[b]]士燮[[/b]]\\n士太守\\n\\n將領類別：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]士燮治理有方，長久安定，故能成為一方之霸。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_sun_ce_hero_fire	[[b]]孫策[[/b]]\\n小霸王\\n\\n將領類別：{{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]]孫策頗有古時霸王之風，他年紀雖輕卻身懷韜略。[[/col]][[/i]]	false
