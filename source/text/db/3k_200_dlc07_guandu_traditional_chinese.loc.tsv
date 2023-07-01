@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/3k_200_dlc07_guandu_traditional_chinese.loc		
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_lady_mi_earth	[[b]]麋夫人[[/b]]\\n堅忍忠貞\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]麋夫人會為她的家族赴湯蹈火，在所不辭。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_xu_chu_hero_wood	[[b]]許褚[[/b]]\\n虎痴\\n\\n將領類別：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]許褚為人謹守分寸，作戰時卻以力大兇猛著稱。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_guo_jia_hero_water	[[b]]郭嘉[[/b]]\\n鬼謀\\n\\n將領類別：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]郭嘉洞察力非凡，深得信賴。若不聽從他的建言，無異於自討敗仗。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_xu_huang_hero_metal	[[b]]徐晃[[/b]]\\n城關神衛\\n\\n將領類別：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]徐晃擔任護衛時堅毅不屈，要過他這一關可不容易。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_lady_da_qiao_hero_earth	[[b]]大喬[[/b]]\\n江南之女\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]南方的環境替當地的名門帶來了一份恩賜：兩位溫柔婉約、意志堅強的女兒。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_lady_xiao_qiao_hero_metal	[[b]]小喬[[/b]]\\n江南之女\\n\\n將領類別：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]上天為了嘉獎忠孝之人，不只降下一個贈禮，而是一次賜予兩個。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_zhang_hong_hero_water	[[b]]張紘[[/b]]\\n精通經略\\n\\n將領類別：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]張紘機智過人、臨危不亂，是以官運亨通。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc07_template_historical_zhang_zhao_hero_water	[[b]]張昭[[/b]]\\n剛烈謀士\\n\\n將領類別：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]即使是最強橫的諸侯偶爾也需要臣下直言勸諫。張昭自可勝任這樣的角色。[[/col]][[/i]]	false
