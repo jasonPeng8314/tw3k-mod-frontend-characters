@@ -29,9 +29,9 @@
 | **何儀**    |         |         | 裴元紹              |
 
 #### 預覽圖：
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index1.png" alt="preview">
+<img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index2.png" alt="preview">
+<img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index3.png" alt="preview">
+<img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index4.png" alt="preview">
+<img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index5.png" alt="preview">
 
