@@ -9,7 +9,7 @@
 
 #### 使用方式：
 1. 若是Steam則可以直接透過工作坊訂閱: https://steamcommunity.com/sharedfiles/filedetails/?id=2997166463
-2. 將.pack檔下載後放在你的 `Total War THREE KINGDOMS/data/` 目錄下
+2. 將.pack檔下載後放在你的 `Total War THREE KINGDOMS/data/` 目錄下: https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/releases
 
 #### 主要修改如下：
 
