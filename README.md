@@ -7,4 +7,4 @@ Switch between different branches to choose the language you want to use.
 
 ##### Supported languages:
 1. [x] Traditional Chinese
-2. [ ] English (TODO)
+2. [x] English
