@@ -6,10 +6,11 @@
 
 > 有些強大的勢力擁有超過四位以上值得注意的人物，我也將其他人放入選擇介面上，讓大家都能被看見！
 
-
 #### 使用方式：
+
 1. 若是Steam則可以直接透過工作坊訂閱: https://steamcommunity.com/sharedfiles/filedetails/?id=2997166463
-2. 將.pack檔下載後放在你的 `Total War THREE KINGDOMS/data/` 目錄下: https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/releases
+2. 將.pack檔下載後放在你的 `Total War THREE KINGDOMS/data/`
+   目錄下: https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/releases
 
 #### 主要修改如下：
 
@@ -19,7 +20,7 @@
 | **劉宏**    | 何皇后     |         |                  |                            |
 | **董卓**    | 李儒、李傕   |         |                  |                            |
 | **陶謙**    | 糜夫人     | 糜夫人     |                  |                            |
-| **曹操**    | 卞夫人     | 曹丕、曹仁   | 樂進、于禁(取代夏侯惇、夏侯淵) | 許褚、郭嘉、徐晃(取代夏侯淵、荀彧、曹仁)      |
+| **曹操**    | 卞夫人、曹仁  | 曹丕、曹仁   | 樂進、于禁(取代夏侯惇、夏侯淵) | 許褚、郭嘉、徐晃(取代夏侯淵、荀彧、曹仁)      |
 | **張寶**    | 何曼、裴元紹  |         |                  |                            |
 | **張角**    | 張闓      |         |                  |                            |
 | **馬騰**    | 馬超      |         |                  |                            |
@@ -29,6 +30,7 @@
 | **何儀**    |         |         | 裴元紹              |
 
 #### 預覽圖：
+
 <img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index1.png" alt="preview">
 <img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index2.png" alt="preview">
 <img src="https://github.com/jasonPeng8314/tw3k-mod-frontend-characters/blob/traditional_chinese/resource/index3.png" alt="preview">
