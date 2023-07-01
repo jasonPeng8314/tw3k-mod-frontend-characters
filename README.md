@@ -24,7 +24,7 @@ noteworthy characters during the selection process.
 | **Liu Hong**     | Empress He           |                      |                                                 |                                                                                             |
 | **Dong Zhuo**    | Li Ru, Li Jue        |                      |                                                 |                                                                                             |
 | **Tao Qian**     | Lady Mi              | Lady Mi              |                                                 |                                                                                             |
-| **Cao Cao**      | Lady Bian            | Cao Pi, Cao Ren      | Yue Jin、Yu Jin(replace Xiahou Dun, Xiahou Yuan) | Xu Chu, Guo Jia, Xu Huang (replace Xiahou Yuan, Xun Yu, Cao Ren)                            |
+| **Cao Cao**      | Lady Bian, Cao Ren   | Cao Pi, Cao Ren      | Yue Jin、Yu Jin(replace Xiahou Dun, Xiahou Yuan) | Xu Chu, Guo Jia, Xu Huang (replace Xiahou Yuan, Xun Yu, Cao Ren)                            |
 | **Zhang Bao**    | He Man, Pei Yuanshao |                      |                                                 |                                                                                             |
 | **Zhang Jiao**   | Zhang Kai            |                      |                                                 |                                                                                             |
 | **Ma Teng**      | Ma Chao              |                      |                                                 |                                                                                             |
