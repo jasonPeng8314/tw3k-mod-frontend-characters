@@ -2,5 +2,5 @@ key	text	tooltip
 #Loc;1;text/db/3k_194_dlc05_new_year_traditional_chinese.loc		
 frontend_faction_leader_unique_characters_localised_description_3k_dlc05_template_historical_lady_mi_earth	[[b]]麋夫人[[/b]]\\n堅忍忠貞\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]麋夫人會為她的家族赴湯蹈火，在所不辭。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc05_ytr_template_historical_pei_yuanshao_hero_veteran	[[b]]裴元紹[[/b]]\\n忠義先驅\\n\\n將領類別：{{tr:3k_ytr_general_type_veteran}}\\n\\n[[col:flavour]][[i]]「無論率領的是賊匪還是兵士，為將者皆須以身作則，一馬當先。」[[/col]][[/i]]	false
-frontend_faction_leader_unique_characters_localised_description_3k_dlc05_template_historical_yuan_shang_hero_earth	[[b]]袁尚[[/b]]\\n官員\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]寧以一虎率眾驢，莫以一驢御眾虎。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_dlc05_template_historical_yuan_shang_hero_earth	[[b]]袁尚[[/b]]\\n得寵子嗣\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]寧以一虎率眾驢，莫以一驢御眾虎。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_dlc05_template_historical_yu_jin_hero_metal	[[b]]于禁[[/b]]\\n持軍嚴整\\n\\n將領類別：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]于禁紀律嚴明，以法御下。[[/col]][[/i]]	false
